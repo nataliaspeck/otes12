@@ -7,3 +7,5 @@ Para rodar o arquivo, é necessário ter o nodeJs instalado em sua máquina (htt
 Os dados com custos serão pedidos como input para o usuário via terminal e assim o sistema fará o cálculo necessário para a resultante do valor total e subirá um servidor na porta 3000 informando este valor. 
 
 Para acessar, após ter inserido todos os dados, visite `http://localhost:3000` e o valor estará exibido em sua tela. 
+
+O componente pode ser facilmente reutilizado por meio de modificações básicas nos tipos de custos e na forma como são calculados.
