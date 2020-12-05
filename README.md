@@ -1,6 +1,6 @@
 # OTES12
 
-O arquivo `otes12reuse.js` (acesse o código fonte aqui)[https://github.com/nataliaspeck/otes12/blob/master/otes12reuse.js] é uma aplicação JavaScript que tem como objetivo utilizar componentes reutilizáveis para a aula de OTES 12 com o framework `NodeJS` e bibliotecas `mathJs`, `prompt` e `http` e seguindo princípios SOLID.
+O arquivo `otes12reuse.js` [(acesse o código fonte aqui)](https://github.com/nataliaspeck/otes12/blob/master/otes12reuse.js) é uma aplicação JavaScript que tem como objetivo utilizar componentes reutilizáveis para a aula de OTES 12 com o framework `NodeJS` e bibliotecas `mathJs`, `prompt` e `http` e seguindo princípios SOLID.
 
 Para rodar o arquivo, é necessário ter o nodeJs instalado em sua máquina (https://nodejs.org/en/blog/release/v12.13.0/) e no terminal, estando no diretório do arquivo, executar o comando `node otes12reuse.js`.
 
