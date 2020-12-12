@@ -12,7 +12,7 @@ Para acessar, após ter inserido todos os dados, visite `http://localhost:3000` 
 
 O componente pode ser facilmente reutilizado por meio de modificações básicas nos tipos de custos e na forma como são calculados.
 
-### 11/12/20 - Componente reutilizável com GOF
+### 12/12/20 - Componente reutilizável com GOF
 
 O programa `CalculateCost` [(acesse o código fonte aqui)](https://github.com/nataliaspeck/otes12/tree/master/05-12-20/src) é uma aplicação Java que tem como objetivo utilizar componentes reutilizáveis para a aula de OTES 12 seguindo padrões de projeto.
 
