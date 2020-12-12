@@ -20,3 +20,5 @@ Para rodar o arquivo, é necessário ter o Java 11 instalado em sua máquina (ht
 
 O componente pode ser facilmente reutilizado por meio de modificações básicas nos tipos de custos e na forma como são calculados.
 
+Para reutilizar o componente de outra forma, você também pode usar o arquivo `calculateCost.jar` na sua aplicação. Você deverá utilizar o comando `java -cp calculateCost.jar yourPackage.yourDomain.yourMainClass`
+e importar as classes que irá utilizar no seu projeto :)                                                                            
