@@ -6,7 +6,7 @@ import java.util.List;
  * é um meio simples de estender a funcionalidade padrão usando herança.
  *
  * Neste exemplo, o padrão Template Method define um algoritmo de custo genérico.
- * As subclasses que correspondem a uma rede social específica, implementam essas etapas de acordo com a API fornecida pela rede social.
+ * As subclasses que correspondem a uma custo específico, implementam essas etapas de acordo com seus cálculos específico.
  *
  * - Dependa de abstrações e não de implementações.
  * - Objetos ou entidades devem estar abertos para extensão, mas fechados para modificação.
